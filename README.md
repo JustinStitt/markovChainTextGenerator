@@ -9,7 +9,8 @@ View Project files for an example document showing what the built markov chain l
 
 Also in the Project files is a text document containing 10,000 generated sentences based on Frankenstein by Mary Shelley
 
-Here's 10 for your viewing pleasure:
+**10 Sentences For Your Reading Pleasure** (generated from Mary Shelley's Frankenstein)
+
 1. They remained some great and wretchedness of the fire in which I compassionated him are all sound of those branches of moderate fortune, my fate.  
 2. I shudder and the hero, whose selfishness in the inestimable benefit was a thousand little dimples appear rich, but I trembled violently as often went out in one of nature, which was called calmness of evil in France and Agatha and I regard any obvious laws of forgotten the Tay, to London was spoken of her lovely children; you sign of feeling, and he was indeed every gloomy prison.
 3. Good night came to an end of analysis and attentive and base of the fire and then, with a party of strange sight of men, even that her feelings were called forth on some papers every care that I eagerly hope the hellish monster!
