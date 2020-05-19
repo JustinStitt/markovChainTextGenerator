@@ -1,6 +1,10 @@
 # markovChainTextGenerator
 Generates brand new sentences by building a markov chain out of given text.
 
+**example structure**
+
+![](markovStructure.png)
+
 View Project files for an example document showing what the built markov chain looks like for Frankenstein.
 
 Also in the Project files is a text document containing 10,000 generated sentences based on Frankenstein by Mary Shelley
