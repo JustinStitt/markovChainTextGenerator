@@ -5,6 +5,8 @@ Generates brand new sentences by building a markov chain out of given text.
 
 ![](markovStructure.png)
 
+Using a markov chain, I can generate sentences that use the same vocabulary and sentence structure as a given text. These sentences are brand new and were never directly stated in the text.
+
 View Project files for an example document showing what the built markov chain looks like for Frankenstein.
 
 Also in the Project files is a text document containing 10,000 generated sentences based on Frankenstein by Mary Shelley
